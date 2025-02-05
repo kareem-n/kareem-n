@@ -5,6 +5,12 @@
 ## 🚀 About Me  
 I'm a passionate **Full Stack Web Developer** with a love for building scalable, user-friendly, and innovative web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sipping coffee while debugging. ☕
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kareem-n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kareem-n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ## 🛠️ Tech Stack  
 
 ### **Frontend**  
@@ -42,6 +48,7 @@ I'm a passionate **Full Stack Web Developer** with a love for building scalable,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
+<img src="https://raw.githubusercontent.com/kareem-n/kareem-n/output/snake.svg" alt="Snake animation" />
 
 ## 💬 Let's Connect!  
 I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!  
